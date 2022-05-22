@@ -1,9 +1,7 @@
 # VR app for patients with Parkinson's disease (VR aplikace pro pacienty s Parkinsonovou chorobou)
 ### Description (popis)
-#### ENG
-Bachelor degree thesis on the topic of virtual reality application for patients with Parkinson's disease.
-#### CZ
-Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkinsonovou chorobou.
+
+Bachelor degree thesis on the topic of virtual reality application for patients with Parkinson's disease. (bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkinsonovou chorobou)
 
 ---
 ## CZ
