@@ -1,7 +1,7 @@
-# VR app for patients with Parkinson's disease (VR aplikace pro pacienty s Parkinsonovou chorobou)
-### Description (popis)
+# VR aplikace pro pacienty s Parkinsonovou chorobou (VR app for patients with Parkinson's disease)
+### Popis (description)
 
-Bachelor degree thesis on the topic of virtual reality application for patients with Parkinson's disease. (bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkinsonovou chorobou)
+Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkinsonovou chorobou. (bachelor degree thesis on the topic of virtual reality application for patients with Parkinson's disease)
 
 ---
 ## CZ
@@ -15,12 +15,15 @@ Bachelor degree thesis on the topic of virtual reality application for patients 
 - v rámci bakalářské práce vyvinul Jiří Kadlec, více na adrese www.vutbr.cz/studenti/zav-prace/detail/138480
 ---
 ### Repozitář obsahuje
-- a
-  - aa
-- b
-- c
-  - ca
-    - caa 
+- Unity balíček (pro verzy 2020.3.23f1) obsahující všechny scény, skripty, materiály, modely, atd.
+- Složka s kompletní Unity projektem (pro verzy 2020.3.23f1)
+  - Ve složce "Assets" se nachází scény, skripty, materiály, nastavení vazeb apod.
+    - Hotové scény se nachází v adresáři "Scenes" a dále ve složce "Project scenes implemented", ostatní soubory jsou již v odpovídajících původních složkách
+  - Ve složce "Builds" je poslední verze sestavené aplikace - soubor nahraný do zařízení Oculus Quest 2 (parkinsons_app.apk)
+  - Ve složce "Project Settings" jsou nastavení projektu (rozšíření, nastavení pro sestavování a export aplikace, atd.)
+  - Ve složce "Packages" se nachází informace o potřebných balíčcích, na kterých závisí funkčnost projektu
+- Kopie bakaláířské práce ve formátu PDF
+- Video obsahující krátkou ukázku z jednotlivých scén aplikace
 
 ---
 ## ENG
@@ -35,9 +38,12 @@ Bachelor degree thesis on the topic of virtual reality application for patients 
 
 ---
 ### Repository content
-- a
-  - aa
-- b
-- c
-  - ca
-    - caa 
+- Unity package (for versions 2020.3.23f1) containing all scenes, scripts, materials, models, etc.
+- Folder with the Unity project (for versions 2020.3.23f1)
+   - The "Assets" folder contains scenes, scripts, materials, link settings, etc.
+     - The finished scenes are located in the "Scenes" directory and in the "Project scenes implemented" folder, the other files are in the corresponding default folders
+   - The "Builds" folder contains the latest version of the built application - a file uploaded to Oculus Quest 2 (parkinsons_app.apk)
+   - The "Project Settings" folder contains project settings (extensions, settings for building and exporting the application, etc.)
+   - The "Packages" folder contains information about the required packages on which the functionality of the project depends
+- Copy of bachelor thesis in PDF format
+- Video containing a short preview of each scene of the application
