@@ -3,8 +3,8 @@
 Bachelor degree thesis on the topic of virtual reality application for patients with Parkinson's disease
 Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkinsonovou chorobou
 ---
-## CZ
 ---
+## CZ
 ### O aplikaci
 - Virtuální realita představuje alternativu ke klasickým metodám diagnostiky a terapie Parkinsonovi choroby.
 - Aplikace slouží pro pacienty jako úvod do prostředí VR, obsahem jsou 3 cvičení.
@@ -19,12 +19,12 @@ Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkin
   - aa
 - b
 - c
-  -ca
-    -caa
+  - ca
+    - caa 
 
 ---
-## ENG
 ---
+## ENG
 ### About the app
 - Virtual reality is an alternative to the classic methods of diagnosis and therapy of Parkinson's disease.
 - The application serves as an introduction to the VR environment for patients, the content includes 3 exercises.
@@ -40,5 +40,5 @@ Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkin
   - aa
 - b
 - c
-  -ca
-    -caa
+  - ca
+    - caa 
