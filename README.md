@@ -2,7 +2,7 @@
 ### Description (popis)
 Bachelor degree thesis on the topic of virtual reality application for patients with Parkinson's disease
 Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkinsonovou chorobou
----
+
 ---
 ## CZ
 ### O aplikaci
@@ -22,7 +22,6 @@ Bakalářská práce na téma aplikace virtuální reality pro pacienty s Parkin
   - ca
     - caa 
 
----
 ---
 ## ENG
 ### About the app
